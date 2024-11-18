@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ProyectoDYAS/static/css/main.1bac7653.css",
+    "main.js": "/ProyectoDYAS/static/js/main.db708d63.js",
+    "static/js/453.c66439c9.chunk.js": "/ProyectoDYAS/static/js/453.c66439c9.chunk.js",
+    "static/media/BgDetailed.png": "/ProyectoDYAS/static/media/BgDetailed.b33b148808ce7bd130bc.png",
+    "static/media/Poster1.png": "/ProyectoDYAS/static/media/Poster1.3b4a5fd8e373d39bd1db.png",
+    "static/media/BgHome.png": "/ProyectoDYAS/static/media/BgHome.b49fdc71e1da6a8691ba.png",
+    "static/media/LargeBanner1.png": "/ProyectoDYAS/static/media/LargeBanner1.28b9003a48ca3d0f3c15.png",
+    "static/media/LargeBanner2.png": "/ProyectoDYAS/static/media/LargeBanner2.a6490be9895237fcb453.png",
+    "static/media/MediumBanner4.png": "/ProyectoDYAS/static/media/MediumBanner4.0121471b05c981344b87.png",
+    "static/media/MediumBanner3.png": "/ProyectoDYAS/static/media/MediumBanner3.12a4be0a2ada2afacfa3.png",
+    "static/media/MediumBanner2.png": "/ProyectoDYAS/static/media/MediumBanner2.14613f50d83b38907ae3.png",
+    "static/media/MediumBanner1.png": "/ProyectoDYAS/static/media/MediumBanner1.40cfe64fc10b58a1cdfb.png",
+    "static/media/SmallBanner5.png": "/ProyectoDYAS/static/media/SmallBanner5.cc243e9a5a0091d21f1b.png",
+    "static/media/SmallBanner1.png": "/ProyectoDYAS/static/media/SmallBanner1.692623b00b0525cec4c3.png",
+    "static/media/SmallBanner7.png": "/ProyectoDYAS/static/media/SmallBanner7.b4ab32b4ebadfa838b43.png",
+    "static/media/SmallBanner2.png": "/ProyectoDYAS/static/media/SmallBanner2.d4a8b92bd3b89ec5bb3b.png",
+    "static/media/SmallBanner3.png": "/ProyectoDYAS/static/media/SmallBanner3.0a1743334d32aba28768.png",
+    "static/media/SmallBanner4.png": "/ProyectoDYAS/static/media/SmallBanner4.7cf324f27e643b506f0a.png",
+    "static/media/SmallBanner6.png": "/ProyectoDYAS/static/media/SmallBanner6.3cb8f92575c269da1d9b.png",
+    "static/media/Profile1.png": "/ProyectoDYAS/static/media/Profile1.e46583b0eba23a1c78d0.png",
+    "index.html": "/ProyectoDYAS/index.html",
+    "main.1bac7653.css.map": "/ProyectoDYAS/static/css/main.1bac7653.css.map",
+    "main.db708d63.js.map": "/ProyectoDYAS/static/js/main.db708d63.js.map",
+    "453.c66439c9.chunk.js.map": "/ProyectoDYAS/static/js/453.c66439c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bac7653.css",
+    "static/js/main.db708d63.js"
+  ]
+}
