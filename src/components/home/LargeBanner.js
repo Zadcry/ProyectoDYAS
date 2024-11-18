@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const LargeBanner = ({ image, text, url }) => {
     return (
-        <CardContainer to={url}>
+        <CardContainer className={"LargeBanner"} to={url}>
             <CardWrapper>
                 <CardImage src={image} alt={text} />
                 <CardText>{text}</CardText>

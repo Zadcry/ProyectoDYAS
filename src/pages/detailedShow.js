@@ -2,6 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
+import BgDetailed from "../assets/backgrounds/BgDetailed.png";
+
 import Poster1 from "../assets/banners/Poster1.png";
 import Favorite from "../assets/logos/Favorite.png";
 
@@ -32,6 +34,8 @@ export default DetailedShow;
 
 const DetailedShowContainer = styled.div`
     background-color: #0e1428;
+    background-image: url(${BgDetailed});
+    background-size: cover;
     color : white;
     padding: 20px;
     text-align: center;
@@ -47,10 +51,11 @@ const DetailedShowContainer = styled.div`
 `;
 
 const ShowDescription = styled.div`
+    background-color: rgba(14,20,40,0.7);
     margin-left: 80px;
     text-align: left;
     width: 50%;
-    height: 100%;
+
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -72,6 +77,7 @@ const ShowDescription = styled.div`
 `;
 
 const ShowTitle = styled.div`
+    background-color: rgba(14,20,40,0.7);
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -82,7 +88,7 @@ const ShowTitle = styled.div`
 `;
 
 const ShowContent = styled.div`
-
+    background-color: rgba(14,20,40,0.7);
     width: 100%;
 
 `;
